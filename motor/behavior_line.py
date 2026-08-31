@@ -1,4 +1,4 @@
-import robot
+from model import robot
 from Raspi_MotorHAT import Raspi_MotorHAT
 from time import sleep
 
