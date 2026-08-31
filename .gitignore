@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+wpa_supplicant.conf
 build/
 develop-eggs/
 dist/
